@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 200" width="100%" height="100%" fill="none" stroke="#3C2415" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="360" height="200" fill="#DDD9CE" rx="8" stroke="rgba(60, 36, 21, 0.22)" stroke-width="1"/>
+  <!-- Architectural Drafting Grid -->
+  <g stroke="rgba(60, 36, 21, 0.05)" stroke-width="0.75">
+    <line x1="40" y1="0" x2="40" y2="200"/>
+    <line x1="120" y1="0" x2="120" y2="200"/>
+    <line x1="200" y1="0" x2="200" y2="200"/>
+    <line x1="280" y1="0" x2="280" y2="200"/>
+    <line x1="360" y1="0" x2="360" y2="200"/>
+    <line x1="440" y1="0" x2="440" y2="200"/>
+    <line x1="0" y1="40" x2="360" y2="40"/>
+    <line x1="0" y1="120" x2="360" y2="120"/>
+    <line x1="0" y1="200" x2="360" y2="200"/>
+    <line x1="0" y1="280" x2="360" y2="280"/>
+  </g>
+  
+  <text x="180" y="35" font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle" letter-spacing="1">STEP 01 · PRACTITIONER ACCOUNT</text>
+  <!-- Architect Drafting Table & Ledger -->
+  <rect x="60" y="60" width="240" height="100" fill="rgba(60, 36, 21, 0.04)" stroke-width="1.4" rx="3"/>
+  <rect x="90" y="80" width="80" height="60" fill="#DDD9CE" stroke-width="1.2"/>
+  <line x1="100" y1="95" x2="160" y2="95" stroke-width="1"/>
+  <line x1="100" y1="108" x2="150" y2="108" stroke-width="1"/>
+  <line x1="100" y1="121" x2="140" y2="121" stroke-width="1"/>
+  <!-- Pen & Drafting Compass -->
+  <line x1="200" y1="80" x2="225" y2="135" stroke-width="1.8"/>
+  <line x1="200" y1="80" x2="205" y2="140" stroke-width="1.8"/>
+  <circle cx="200" cy="80" r="3" fill="#3C2415"/>
+  <text x="180" y="180" font-family="Inter, sans-serif" font-size="8" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">Personal credentials &amp; contact verification</text>
+
+</svg>

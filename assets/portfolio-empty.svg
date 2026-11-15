@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="100%" height="100%" fill="none" stroke="#3C2415" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="400" height="260" fill="#DDD9CE" rx="8" stroke="rgba(60, 36, 21, 0.22)" stroke-width="1"/>
+  <!-- Architectural Drafting Grid -->
+  <g stroke="rgba(60, 36, 21, 0.05)" stroke-width="0.75">
+    <line x1="40" y1="0" x2="40" y2="260"/>
+    <line x1="120" y1="0" x2="120" y2="260"/>
+    <line x1="200" y1="0" x2="200" y2="260"/>
+    <line x1="280" y1="0" x2="280" y2="260"/>
+    <line x1="360" y1="0" x2="360" y2="260"/>
+    <line x1="440" y1="0" x2="440" y2="260"/>
+    <line x1="0" y1="40" x2="400" y2="40"/>
+    <line x1="0" y1="120" x2="400" y2="120"/>
+    <line x1="0" y1="200" x2="400" y2="200"/>
+    <line x1="0" y1="280" x2="400" y2="280"/>
+  </g>
+  
+  <rect x="70" y="50" width="260" height="150" fill="rgba(60, 36, 21, 0.04)" stroke-width="1.4" rx="4"/>
+  <rect x="90" y="70" width="220" height="110" fill="none" stroke-width="1.2" stroke-dasharray="3 3"/>
+  <text x="200" y="115" font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle">NO PORTFOLIO PROJECTS ADDED YET</text>
+  <text x="200" y="132" font-family="Inter, sans-serif" font-size="8.5" fill="rgba(60, 36, 21, 0.7)" stroke="none" text-anchor="middle">Showcase your completed residential projects, drawings and elevations.</text>
+  <circle cx="200" cy="155" r="12" fill="#3C2415"/>
+  <text x="200" y="159" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#DDD9CE" stroke="none" text-anchor="middle">+</text>
+  <text x="200" y="225" font-family="Inter, sans-serif" font-size="8" fill="rgba(60, 36, 21, 0.6)" stroke="none" text-anchor="middle">Add at least one project to make your profile visible</text>
+
+</svg>

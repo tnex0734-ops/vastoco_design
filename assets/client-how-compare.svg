@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="100%" height="100%" fill="none" stroke="#3C2415" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="480" height="320" fill="#DDD9CE" rx="8" stroke="rgba(60, 36, 21, 0.22)" stroke-width="1"/>
+  <!-- Architectural Drafting Grid -->
+  <g stroke="rgba(60, 36, 21, 0.05)" stroke-width="0.75">
+    <line x1="40" y1="0" x2="40" y2="320"/>
+    <line x1="120" y1="0" x2="120" y2="320"/>
+    <line x1="200" y1="0" x2="200" y2="320"/>
+    <line x1="280" y1="0" x2="280" y2="320"/>
+    <line x1="360" y1="0" x2="360" y2="320"/>
+    <line x1="440" y1="0" x2="440" y2="320"/>
+    <line x1="0" y1="40" x2="480" y2="40"/>
+    <line x1="0" y1="120" x2="480" y2="120"/>
+    <line x1="0" y1="200" x2="480" y2="200"/>
+    <line x1="0" y1="280" x2="480" y2="280"/>
+  </g>
+  
+  <text x="240" y="45" font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle" letter-spacing="1.5">02 · SIDE-BY-SIDE EVALUATION</text>
+  <line x1="160" y1="52" x2="320" y2="52" stroke-width="0.8"/>
+  <!-- Drafting Board Base -->
+  <rect x="60" y="80" width="360" height="195" fill="rgba(60, 36, 21, 0.03)" stroke-width="1.5" rx="4"/>
+  <!-- Center Comparison Divider -->
+  <line x1="240" y1="80" x2="240" y2="275" stroke-width="1.4" stroke-dasharray="4 4"/>
+  <!-- Profile A Column -->
+  <rect x="85" y="100" width="130" height="75" fill="#DDD9CE" stroke-width="1.4"/>
+  <!-- House Elevation A (Courtyard Villa) -->
+  <polygon points="95,145 150,115 205,145" fill="rgba(60, 36, 21, 0.06)" stroke-width="1.4"/>
+  <rect x="105" y="145" width="90" height="30" stroke-width="1.4"/>
+  <line x1="130" y1="150" x2="145" y2="150" stroke-width="1"/>
+  <line x1="155" y1="150" x2="170" y2="150" stroke-width="1"/>
+  <text x="150" y="195" font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle">Studio Naina Kapoor</text>
+  <text x="150" y="210" font-family="Inter, sans-serif" font-size="8" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">8 yrs exp · ₹1,400 / 30m</text>
+  <text x="150" y="224" font-family="Inter, sans-serif" font-size="7.5" font-weight="600" fill="#3C2415" stroke="none" text-anchor="middle">✓ COA CA/2016/78210</text>
+  <!-- Profile B Column -->
+  <rect x="265" y="100" width="130" height="75" fill="#DDD9CE" stroke-width="1.4"/>
+  <!-- House Elevation B (Pavilion Extension) -->
+  <rect x="280" y="130" width="100" height="45" fill="rgba(60, 36, 21, 0.06)" stroke-width="1.4"/>
+  <line x1="275" y1="130" x2="385" y2="130" stroke-width="1.8"/>
+  <rect x="295" y="140" width="25" height="35" stroke-width="1"/>
+  <rect x="330" y="140" width="40" height="25" stroke-width="1"/>
+  <text x="330" y="195" font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle">Kabir Sethi Architecture</text>
+  <text x="330" y="210" font-family="Inter, sans-serif" font-size="8" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">6 yrs exp · ₹1,250 / 30m</text>
+  <text x="330" y="224" font-family="Inter, sans-serif" font-size="7.5" font-weight="600" fill="#3C2415" stroke="none" text-anchor="middle">✓ COA CA/2018/91440</text>
+  <!-- Dimension arrows -->
+  <line x1="85" y1="248" x2="395" y2="248" stroke-width="1"/>
+  <polygon points="85,246 80,248 85,250" fill="#3C2415"/>
+  <polygon points="395,246 400,248 395,250" fill="#3C2415"/>
+  <text x="240" y="262" font-family="Inter, sans-serif" font-size="8" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">Direct Spec-to-Spec Comparison</text>
+
+</svg>

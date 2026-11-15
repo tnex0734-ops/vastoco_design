@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 700" fill="none">
+  <defs>
+    <pattern id="paper-grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" stroke="#3C2415" stroke-opacity=".16" stroke-width="1"/></pattern>
+  </defs>
+  <ellipse cx="506" cy="579" rx="354" ry="70" fill="#DDD9CE" fill-opacity=".55"/>
+  <path d="M184 505C218 372 330 298 486 303C625 308 756 398 796 514" stroke="#DDD9CE" stroke-width="2" stroke-dasharray="5 10" opacity=".5"/>
+  <circle cx="675" cy="190" r="128" fill="#DDD9CE" fill-opacity=".38"/>
+  <path d="M540 115L775 82L861 133L626 167L540 115Z" fill="#DDD9CE" stroke="#3C2415" stroke-opacity=".42" stroke-width="2"/>
+  <path d="M626 167L861 133V342L626 378V167Z" fill="#DDD9CE" stroke="#3C2415" stroke-opacity=".52" stroke-width="2"/>
+  <path d="M654 197L833 169V294L654 323V197Z" fill="#DDD9CE" stroke="#3C2415" stroke-width="3"/>
+  <path d="M654 197L833 169M654 260L833 232M714 188V313M773 178V303" stroke="#3C2415" stroke-opacity=".65" stroke-width="2"/>
+  <path d="M540 115V319L626 378V167L540 115Z" fill="#DDD9CE" stroke="#3C2415" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M548 319L626 378L861 342L775 289L548 319Z" fill="#DDD9CE" stroke="#3C2415" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M626 378V411L861 375V342" stroke="#3C2415" stroke-opacity=".4" stroke-width="2"/>
+  <path d="M540 115L626 167L861 133" stroke="#3C2415" stroke-width="3" stroke-linecap="round"/>
+  <path d="M125 534L826 444L903 484L202 583L125 534Z" fill="#DDD9CE" fill-opacity=".55"/>
+  <path d="M125 534L826 444L903 484L202 583L125 534Z" stroke="#3C2415" stroke-opacity=".65" stroke-width="2"/>
+  <path d="M188 513L708 446L787 487L268 558L188 513Z" fill="#DDD9CE" stroke="#3C2415" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M229 517L656 460L745 489L317 548L229 517Z" fill="url(#paper-grid)" stroke="#3C2415" stroke-opacity=".7" stroke-width="2"/>
+  <path d="M303 519L303 490L388 478L388 507M303 490L346 510L431 498L388 478M431 498V526L346 538V510" stroke="#3C2415" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M479 476L479 451L537 443L537 468M479 451L508 465L568 456L537 443M568 456V481L508 492V465" stroke="#3C2415" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M707 449L731 426L779 450L757 476" stroke="#3C2415" stroke-width="4" stroke-linecap="round"/>
+  <path d="M748 430L797 416L817 427L768 441L748 430Z" fill="#3C2415"/>
+  <!-- seated architect -->
+  <path d="M356 274C335 255 339 224 359 207C383 188 414 201 420 226C425 251 404 274 382 281L356 274Z" fill="#3C2415"/>
+  <path d="M360 227C360 203 376 187 400 190C421 192 431 212 424 235L411 258L379 254L360 227Z" fill="#3C2415"/>
+  <path d="M370 242C366 221 378 207 397 206C416 206 423 220 419 242L407 263L385 271L370 242Z" fill="#3C2415" stroke="#3C2415" stroke-width="2"/>
+  <path d="M376 236C387 229 402 229 415 237" stroke="#3C2415" stroke-width="2" stroke-linecap="round"/>
+  <path d="M386 252L405 249" stroke="#3C2415" stroke-width="2" stroke-linecap="round"/>
+  <path d="M349 270C323 288 308 318 304 360L295 434L439 427L427 333C423 301 400 278 383 271L349 270Z" fill="#3C2415"/>
+  <path d="M350 276L379 307L406 278" stroke="#DDD9CE" stroke-width="3" opacity=".8"/>
+  <path d="M329 324C347 341 370 357 398 359" stroke="#DDD9CE" stroke-width="2" stroke-opacity=".8"/>
+  <path d="M305 351C282 375 257 398 235 423L254 445L337 389" fill="#3C2415" stroke="#3C2415" stroke-width="2"/>
+  <path d="M420 328C453 348 480 366 510 382L501 408L415 381" fill="#3C2415" stroke="#3C2415" stroke-width="2"/>
+  <path d="M239 423L263 444L244 459L219 435L239 423Z" fill="#3C2415" stroke="#3C2415" stroke-width="2"/>
+  <path d="M505 382L526 395L514 418L491 405L505 382Z" fill="#3C2415" stroke="#3C2415" stroke-width="2"/>
+  <path d="M315 427L302 505L338 513L372 437M401 432L420 506L457 498L445 426" stroke="#3C2415" stroke-width="9" stroke-linecap="round"/>
+  <!-- chair -->
+  <path d="M289 368L273 482M273 482L310 491M273 423L326 430" stroke="#3C2415" stroke-width="9" stroke-linecap="round"/>
+  <path d="M269 480L258 541M308 492L316 548" stroke="#3C2415" stroke-width="7" stroke-linecap="round"/>
+  <!-- desk accessories -->
+  <path d="M108 484C91 447 99 420 124 407C145 428 145 456 129 482" fill="#3C2415"/>
+  <path d="M127 484C125 445 145 426 174 419C184 448 163 475 127 484Z" fill="#3C2415"/>
+  <path d="M119 493V541M105 541H139L131 551H113L105 541Z" stroke="#3C2415" stroke-width="3" fill="#DDD9CE"/>
+  <path d="M86 553H152" stroke="#3C2415" stroke-width="3" stroke-linecap="round"/>
+  <!-- drafting lines -->
+  <path d="M64 160L253 127L365 166M65 179L253 146M75 202L192 182" stroke="#3C2415" stroke-opacity=".35" stroke-width="2" stroke-dasharray="6 8"/>
+  <path d="M470 90L470 48M452 62H488M811 386L901 386M866 370V402" stroke="#3C2415" stroke-opacity=".5" stroke-width="2"/>
+</svg>

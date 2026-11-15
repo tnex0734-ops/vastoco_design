@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="100%" height="100%" fill="none" stroke="#3C2415" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="480" height="320" fill="#DDD9CE" rx="8" stroke="rgba(60, 36, 21, 0.22)" stroke-width="1"/>
+  <!-- Architectural Drafting Grid -->
+  <g stroke="rgba(60, 36, 21, 0.05)" stroke-width="0.75">
+    <line x1="40" y1="0" x2="40" y2="320"/>
+    <line x1="120" y1="0" x2="120" y2="320"/>
+    <line x1="200" y1="0" x2="200" y2="320"/>
+    <line x1="280" y1="0" x2="280" y2="320"/>
+    <line x1="360" y1="0" x2="360" y2="320"/>
+    <line x1="440" y1="0" x2="440" y2="320"/>
+    <line x1="0" y1="40" x2="480" y2="40"/>
+    <line x1="0" y1="120" x2="480" y2="120"/>
+    <line x1="0" y1="200" x2="480" y2="200"/>
+    <line x1="0" y1="280" x2="480" y2="280"/>
+  </g>
+  
+  <text x="240" y="45" font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle" letter-spacing="1.5">01 · DISCOVERY &amp; LOCALITY SEARCH</text>
+  <line x1="160" y1="52" x2="320" y2="52" stroke-width="0.8"/>
+  <!-- Ground Plane Isometric Grid -->
+  <polygon points="240,110 390,185 240,260 90,185" fill="rgba(60, 36, 21, 0.04)" stroke-width="1.2"/>
+  <line x1="165" y1="147" x2="315" y2="222" stroke="rgba(60, 36, 21, 0.2)" stroke-width="0.8" stroke-dasharray="2 2"/>
+  <line x1="315" y1="147" x2="165" y2="222" stroke="rgba(60, 36, 21, 0.2)" stroke-width="0.8" stroke-dasharray="2 2"/>
+  <!-- Axonometric Villa 1 (South Delhi) -->
+  <polygon points="170,170 220,145 220,185 170,210" fill="#DDD9CE" stroke-width="1.6"/>
+  <polygon points="220,145 270,170 270,210 220,185" fill="rgba(60, 36, 21, 0.08)" stroke-width="1.6"/>
+  <polygon points="170,170 220,145 270,170 220,195" fill="#DDD9CE" stroke-width="1.6"/>
+  <!-- Windows & Door -->
+  <line x1="185" y1="180" x2="205" y2="170" stroke-width="1.2"/>
+  <line x1="185" y1="195" x2="205" y2="185" stroke-width="1.2"/>
+  <rect x="238" y="180" width="14" height="24" fill="rgba(60, 36, 21, 0.15)" stroke-width="1.2"/>
+  <!-- Discovery Target Pin & Radar Arc -->
+  <circle cx="220" cy="115" r="18" fill="rgba(60, 36, 21, 0.06)" stroke-width="1.4"/>
+  <circle cx="220" cy="115" r="3" fill="#3C2415"/>
+  <path d="M220,133 L220,145" stroke-width="1.5"/>
+  <!-- Search Tag Pill -->
+  <rect x="280" y="90" width="140" height="34" rx="4" fill="#DDD9CE" stroke-width="1.4"/>
+  <circle cx="295" cy="107" r="4" fill="#3C2415"/>
+  <text x="306" y="104" font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#3C2415" stroke="none">DELHI NCR ARCHITECTS</text>
+  <text x="306" y="117" font-family="Inter, sans-serif" font-size="8" fill="rgba(60, 36, 21, 0.75)" stroke="none">Residential Villas · FAR Checks</text>
+
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="100%" height="100%" fill="none" stroke="#3C2415" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="360" height="220" fill="#DDD9CE" rx="8" stroke="rgba(60, 36, 21, 0.22)" stroke-width="1"/>
+  <!-- Architectural Drafting Grid -->
+  <g stroke="rgba(60, 36, 21, 0.05)" stroke-width="0.75">
+    <line x1="40" y1="0" x2="40" y2="220"/>
+    <line x1="120" y1="0" x2="120" y2="220"/>
+    <line x1="200" y1="0" x2="200" y2="220"/>
+    <line x1="280" y1="0" x2="280" y2="220"/>
+    <line x1="360" y1="0" x2="360" y2="220"/>
+    <line x1="440" y1="0" x2="440" y2="220"/>
+    <line x1="0" y1="40" x2="360" y2="40"/>
+    <line x1="0" y1="120" x2="360" y2="120"/>
+    <line x1="0" y1="200" x2="360" y2="200"/>
+    <line x1="0" y1="280" x2="360" y2="280"/>
+  </g>
+  
+  <circle cx="180" cy="85" r="32" fill="rgba(60, 36, 21, 0.08)" stroke-width="2"/>
+  <circle cx="180" cy="85" r="26" fill="#DDD9CE" stroke-width="1.2"/>
+  <path d="M170,85 L177,92 L192,77" stroke-width="2.5"/>
+  <text x="180" y="140" font-family="Playfair Display, serif" font-size="13" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle">Application Received</text>
+  <text x="180" y="160" font-family="Inter, sans-serif" font-size="8.5" font-weight="600" fill="#3C2415" stroke="none" text-anchor="middle">COA Registry Verification In Progress</text>
+  <text x="180" y="175" font-family="Inter, sans-serif" font-size="8" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">Profiles are reviewed privately against statutory records.</text>
+  <text x="180" y="188" font-family="Inter, sans-serif" font-size="8" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">You will be notified once your monograph is ready.</text>
+
+</svg>

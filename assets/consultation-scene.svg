@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" fill="none">
+  <circle cx="445" cy="287" r="230" fill="#DDD9CE" fill-opacity=".55"/>
+  <path d="M104 494C208 440 335 424 461 445C602 468 721 464 820 425" stroke="#3C2415" stroke-width="2" stroke-dasharray="5 9"/>
+  <!-- call window -->
+  <rect x="358" y="62" width="438" height="277" rx="18" fill="#DDD9CE" stroke="#3C2415" stroke-opacity=".4" stroke-width="2"/>
+  <path d="M358 111H796" stroke="#3C2415" stroke-opacity=".25" stroke-width="2"/>
+  <circle cx="386" cy="87" r="5" fill="#3C2415"/><circle cx="406" cy="87" r="5" fill="#DDD9CE"/><circle cx="426" cy="87" r="5" fill="#3C2415"/>
+  <rect x="384" y="132" width="190" height="165" rx="10" fill="#DDD9CE"/>
+  <rect x="594" y="132" width="176" height="165" rx="10" fill="#DDD9CE"/>
+  <!-- first participant -->
+  <circle cx="480" cy="190" r="34" fill="#3C2415"/>
+  <path d="M446 184C445 148 468 137 493 148C513 157 517 179 510 194L499 170L473 166L446 184Z" fill="#3C2415"/>
+  <path d="M425 287C431 248 452 226 480 226C509 226 529 250 535 287H425Z" fill="#3C2415"/>
+  <!-- second participant -->
+  <circle cx="681" cy="188" r="32" fill="#DDD9CE"/>
+  <path d="M649 184C646 151 666 141 690 145C715 149 722 173 709 196L701 169L675 165L649 184Z" fill="#3C2415"/>
+  <path d="M629 287C636 248 656 224 681 224C709 224 734 249 741 287H629Z" fill="#3C2415"/>
+  <rect x="503" y="315" width="148" height="30" rx="15" fill="#3C2415"/>
+  <circle cx="530" cy="330" r="6" fill="#DDD9CE"/>
+  <path d="M551 330H611" stroke="#DDD9CE" stroke-width="3" stroke-linecap="round"/>
+  <!-- desk and client -->
+  <path d="M72 440L282 408L354 441L143 477L72 440Z" fill="#DDD9CE" stroke="#3C2415" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M143 477V537M282 445V507" stroke="#3C2415" stroke-opacity=".55" stroke-width="5"/>
+  <circle cx="192" cy="272" r="42" fill="#DDD9CE"/>
+  <path d="M149 270C144 230 167 203 202 209C234 214 246 245 227 279L212 244L184 235L149 270Z" fill="#3C2415"/>
+  <path d="M131 416C141 357 166 323 195 320C230 316 255 350 270 414L131 416Z" fill="#3C2415"/>
+  <path d="M215 344L286 397L274 418L198 380" fill="#DDD9CE" stroke="#3C2415" stroke-width="2"/>
+  <path d="M279 398L314 413" stroke="#3C2415" stroke-width="5" stroke-linecap="round"/>
+  <!-- tablet / plan -->
+  <path d="M117 427L239 408L278 428L155 448L117 427Z" fill="#DDD9CE" stroke="#3C2415" stroke-width="2"/>
+  <path d="M139 429L168 424L168 439L139 444ZM179 422L218 416V431L179 437Z" stroke="#3C2415" stroke-width="1.5"/>
+  <path d="M169 428L169 440M219 417V432" stroke="#3C2415" stroke-width="1.5"/>
+  <!-- plant and pencil -->
+  <path d="M317 478V526M317 487C292 471 293 451 307 444C326 450 330 469 317 487ZM317 498C338 480 353 487 351 505C341 520 324 514 317 498Z" fill="#3C2415"/>
+  <path d="M300 526H338L329 543H309L300 526Z" fill="#DDD9CE" stroke="#3C2415" stroke-width="2"/>
+  <!-- floorplan paper -->
+  <path d="M604 405L777 379L853 420L677 447L604 405Z" fill="#DDD9CE" stroke="#3C2415" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M648 408L648 421L692 415V401L734 395V426M692 415L692 433L750 424V411L778 407" stroke="#3C2415" stroke-width="2"/>
+  <path d="M610 400L783 374M673 448L847 422" stroke="#3C2415" stroke-opacity=".25" stroke-width="1.5" stroke-dasharray="5 7"/>
+</svg>

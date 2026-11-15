@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="100%" height="100%" fill="none" stroke="#3C2415" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="480" height="320" fill="#DDD9CE" rx="8" stroke="rgba(60, 36, 21, 0.22)" stroke-width="1"/>
+  <!-- Architectural Drafting Grid -->
+  <g stroke="rgba(60, 36, 21, 0.05)" stroke-width="0.75">
+    <line x1="40" y1="0" x2="40" y2="320"/>
+    <line x1="120" y1="0" x2="120" y2="320"/>
+    <line x1="200" y1="0" x2="200" y2="320"/>
+    <line x1="280" y1="0" x2="280" y2="320"/>
+    <line x1="360" y1="0" x2="360" y2="320"/>
+    <line x1="440" y1="0" x2="440" y2="320"/>
+    <line x1="0" y1="40" x2="480" y2="40"/>
+    <line x1="0" y1="120" x2="480" y2="120"/>
+    <line x1="0" y1="200" x2="480" y2="200"/>
+    <line x1="0" y1="280" x2="480" y2="280"/>
+  </g>
+  
+  <text x="240" y="45" font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle" letter-spacing="1.5">03 · VERIFICATION &amp; INTEGRITY AUDIT</text>
+  <line x1="160" y1="52" x2="320" y2="52" stroke-width="0.8"/>
+  <!-- Certificate / Dossier Sheet -->
+  <rect x="130" y="80" width="220" height="190" fill="#DDD9CE" stroke-width="1.8" rx="3"/>
+  <rect x="140" y="90" width="200" height="170" fill="rgba(60, 36, 21, 0.03)" stroke-width="0.8"/>
+  <!-- Official Header -->
+  <text x="240" y="112" font-family="Playfair Display, serif" font-size="12" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle">Council of Architecture</text>
+  <text x="240" y="125" font-family="Inter, sans-serif" font-size="7.5" font-weight="600" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">STATUTORY REGISTRY VERIFICATION · ARCHITECTS ACT 1972</text>
+  <line x1="155" y1="132" x2="325" y2="132" stroke-width="1"/>
+  <!-- Check Items -->
+  <circle cx="160" cy="152" r="6" fill="#3C2415"/>
+  <polyline points="157,152 159,154 163,150" stroke="#DDD9CE" stroke-width="1.2"/>
+  <text x="175" y="155" font-family="Inter, sans-serif" font-size="8.5" font-weight="600" fill="#3C2415" stroke="none">Registration Active on National Register</text>
+  
+  <circle cx="160" cy="175" r="6" fill="#3C2415"/>
+  <polyline points="157,175 159,177 163,173" stroke="#DDD9CE" stroke-width="1.2"/>
+  <text x="175" y="178" font-family="Inter, sans-serif" font-size="8.5" font-weight="600" fill="#3C2415" stroke="none">Degree &amp; Accredited Qualifications Verified</text>
+  
+  <circle cx="160" cy="198" r="6" fill="#3C2415"/>
+  <polyline points="157,198 159,200 163,196" stroke="#DDD9CE" stroke-width="1.2"/>
+  <text x="175" y="201" font-family="Inter, sans-serif" font-size="8.5" font-weight="600" fill="#3C2415" stroke="none">Delhi NCR Documented Practice History</text>
+  
+  <circle cx="160" cy="221" r="6" fill="#3C2415"/>
+  <polyline points="157,221 159,223 163,219" stroke="#DDD9CE" stroke-width="1.2"/>
+  <text x="175" y="224" font-family="Inter, sans-serif" font-size="8.5" font-weight="600" fill="#3C2415" stroke="none">Zero Purchased / Fake Review Policy</text>
+  <!-- Verified Seal Stamp -->
+  <circle cx="305" cy="225" r="24" fill="rgba(60, 36, 21, 0.08)" stroke-width="1.6" stroke-dasharray="2 2"/>
+  <circle cx="305" cy="225" r="20" stroke-width="1.2"/>
+  <text x="305" y="224" font-family="Inter, sans-serif" font-size="6.5" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle">COA</text>
+  <text x="305" y="232" font-family="Inter, sans-serif" font-size="6" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle">VERIFIED</text>
+
+</svg>

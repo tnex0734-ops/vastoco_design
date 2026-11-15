@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 340" width="100%" height="100%" fill="none" stroke="#3C2415" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="480" height="340" fill="#DDD9CE" rx="8" stroke="rgba(60, 36, 21, 0.22)" stroke-width="1"/>
+  <!-- Architectural Drafting Grid -->
+  <g stroke="rgba(60, 36, 21, 0.05)" stroke-width="0.75">
+    <line x1="40" y1="0" x2="40" y2="340"/>
+    <line x1="120" y1="0" x2="120" y2="340"/>
+    <line x1="200" y1="0" x2="200" y2="340"/>
+    <line x1="280" y1="0" x2="280" y2="340"/>
+    <line x1="360" y1="0" x2="360" y2="340"/>
+    <line x1="440" y1="0" x2="440" y2="340"/>
+    <line x1="0" y1="40" x2="480" y2="40"/>
+    <line x1="0" y1="120" x2="480" y2="120"/>
+    <line x1="0" y1="200" x2="480" y2="200"/>
+    <line x1="0" y1="280" x2="480" y2="280"/>
+  </g>
+  
+  <text x="240" y="45" font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle" letter-spacing="1.5">TWO DOORS · ONE PLATFORM</text>
+  <line x1="160" y1="52" x2="320" y2="52" stroke-width="0.8"/>
+  <!-- Classical Architectural Archway Portal -->
+  <path d="M120,290 L120,150 Q240,70 360,150 L360,290" fill="rgba(60, 36, 21, 0.05)" stroke-width="2"/>
+  <path d="M140,290 L140,160 Q240,95 340,160 L340,290" fill="#DDD9CE" stroke-width="1.4"/>
+  <!-- Door 1: Clients -->
+  <rect x="155" y="170" width="75" height="120" fill="rgba(60, 36, 21, 0.06)" stroke-width="1.4"/>
+  <text x="192" y="220" font-family="Playfair Display, serif" font-size="10" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle">DOOR 01</text>
+  <text x="192" y="235" font-family="Inter, sans-serif" font-size="7.5" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">For Clients</text>
+  <circle cx="218" cy="230" r="2.5" fill="#3C2415"/>
+  <!-- Door 2: Professionals -->
+  <rect x="250" y="170" width="75" height="120" fill="rgba(60, 36, 21, 0.06)" stroke-width="1.4"/>
+  <text x="287" y="220" font-family="Playfair Display, serif" font-size="10" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle">DOOR 02</text>
+  <text x="287" y="235" font-family="Inter, sans-serif" font-size="7.5" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">For Professionals</text>
+  <circle cx="262" cy="230" r="2.5" fill="#3C2415"/>
+  <!-- Foundation Line -->
+  <line x1="100" y1="290" x2="380" y2="290" stroke-width="2.5"/>
+  <line x1="80" y1="296" x2="400" y2="296" stroke-width="1"/>
+  <text x="240" y="318" font-family="Inter, sans-serif" font-size="8" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">Architecture · Interior Design · Vastu Consultation</text>
+
+</svg>
