@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 200" width="100%" height="100%" fill="none" stroke="#3C2415" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="360" height="200" fill="#DDD9CE" rx="8" stroke="rgba(60, 36, 21, 0.22)" stroke-width="1"/>
+  <!-- Architectural Drafting Grid -->
+  <g stroke="rgba(60, 36, 21, 0.05)" stroke-width="0.75">
+    <line x1="40" y1="0" x2="40" y2="200"/>
+    <line x1="120" y1="0" x2="120" y2="200"/>
+    <line x1="200" y1="0" x2="200" y2="200"/>
+    <line x1="280" y1="0" x2="280" y2="200"/>
+    <line x1="360" y1="0" x2="360" y2="200"/>
+    <line x1="440" y1="0" x2="440" y2="200"/>
+    <line x1="0" y1="40" x2="360" y2="40"/>
+    <line x1="0" y1="120" x2="360" y2="120"/>
+    <line x1="0" y1="200" x2="360" y2="200"/>
+    <line x1="0" y1="280" x2="360" y2="280"/>
+  </g>
+  
+  <text x="180" y="35" font-family="Inter, sans-serif" font-size="9" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle" letter-spacing="1">STEP 05 · PROFILE PREVIEW</text>
+  <rect x="80" y="55" width="200" height="110" fill="#DDD9CE" stroke-width="1.5" rx="4"/>
+  <rect x="90" y="65" width="30" height="30" fill="rgba(60, 36, 21, 0.1)" stroke-width="1"/>
+  <text x="130" y="78" font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#3C2415" stroke="none">Studio Aakar</text>
+  <text x="130" y="90" font-family="Inter, sans-serif" font-size="7.5" fill="rgba(60, 36, 21, 0.7)" stroke="none">Architect · Delhi NCR</text>
+  <rect x="90" y="105" width="180" height="20" fill="#3C2415" rx="3"/>
+  <text x="180" y="118" font-family="Inter, sans-serif" font-size="7.5" font-weight="700" fill="#DDD9CE" stroke="none" text-anchor="middle">STATUS: VERIFICATION PENDING</text>
+  <text x="180" y="145" font-family="Inter, sans-serif" font-size="7.5" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">You keep 85% of each consultation fee</text>
+  <text x="180" y="180" font-family="Inter, sans-serif" font-size="8" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">Review entries before formal submission</text>
+
+</svg>

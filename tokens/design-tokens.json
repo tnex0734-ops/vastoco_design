@@ -1,0 +1,141 @@
+{
+  "brand": {
+    "name": "Vastoco",
+    "direction": "architectural-editorial",
+    "logoAsset": "/assets/vastoco-logo.png"
+  },
+  "colors": {
+    "espresso": "#3C2415",
+    "paleOak": "#DDD9CE"
+  },
+  "semanticTokens": {
+    "surfaces": {
+      "canvas": "var(--pale-oak)",
+      "canvasSubtle": "rgba(221, 217, 206, 0.65)",
+      "elevated": "rgba(221, 217, 206, 0.92)",
+      "dark": "var(--espresso)",
+      "darkSubtle": "rgba(60, 36, 21, 0.05)",
+      "overlay": "rgba(60, 36, 21, 0.56)"
+    },
+    "text": {
+      "primary": "var(--espresso)",
+      "secondary": "rgba(60, 36, 21, 0.78)",
+      "muted": "rgba(60, 36, 21, 0.64)",
+      "inverse": "var(--pale-oak)",
+      "inverseMuted": "rgba(221, 217, 206, 0.75)"
+    },
+    "borders": {
+      "subtle": "rgba(60, 36, 21, 0.12)",
+      "default": "rgba(60, 36, 21, 0.18)",
+      "strong": "rgba(60, 36, 21, 0.34)",
+      "inverse": "rgba(221, 217, 206, 0.22)"
+    },
+    "states": {
+      "error": {
+        "border": "rgba(60, 36, 21, 0.85)",
+        "background": "rgba(60, 36, 21, 0.07)"
+      },
+      "success": {
+        "border": "var(--espresso)",
+        "background": "rgba(60, 36, 21, 0.06)"
+      },
+      "pending": {
+        "border": "rgba(60, 36, 21, 0.28)",
+        "background": "rgba(221, 217, 206, 0.5)"
+      },
+      "disabled": {
+        "opacity": 0.45
+      }
+    },
+    "focus": {
+      "outline": "2px solid var(--espresso)",
+      "offset": "2px"
+    },
+    "selection": {
+      "background": "rgba(60, 36, 21, 0.18)",
+      "color": "var(--espresso)"
+    }
+  },
+  "typography": {
+    "display": "Playfair Display",
+    "ui": "Inter",
+    "displayFallback": "Georgia, Times New Roman, serif",
+    "uiFallback": "Segoe UI, Arial, sans-serif",
+    "weights": {
+      "display": [
+        400,
+        600,
+        700
+      ],
+      "ui": [
+        400,
+        500,
+        600,
+        700
+      ]
+    },
+    "scalePx": {
+      "display": 72,
+      "h1": 52,
+      "h2": 36,
+      "h3": 24,
+      "h4": 18,
+      "body": 15,
+      "bodySm": 13,
+      "caption": 11
+    }
+  },
+  "spacingPx": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    32,
+    40,
+    48,
+    64,
+    80,
+    96,
+    112
+  ],
+  "radiiPx": {
+    "xs": 4,
+    "small": 6,
+    "medium": 10,
+    "large": 16,
+    "pill": 999
+  },
+  "layout": {
+    "maxContentWidthPx": 1240,
+    "desktopGutterPx": 32,
+    "tabletGutterPx": 24,
+    "mobileGutterPx": 16,
+    "referenceViewports": [
+      {
+        "name": "desktop",
+        "width": 1440
+      },
+      {
+        "name": "mobile",
+        "width": 390
+      }
+    ],
+    "reviewViewports": [
+      640,
+      768,
+      1024
+    ]
+  },
+  "motion": {
+    "gatewayHeroOnly": true,
+    "sceneCount": 3,
+    "loopDurationSeconds": 18,
+    "properties": [
+      "opacity",
+      "transform"
+    ],
+    "respectReducedMotion": true
+  }
+}

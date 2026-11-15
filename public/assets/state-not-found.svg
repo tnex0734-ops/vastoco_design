@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 280" width="100%" height="100%" fill="none" stroke="#3C2415" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="420" height="280" fill="#DDD9CE" rx="8" stroke="rgba(60, 36, 21, 0.22)" stroke-width="1"/>
+  <!-- Architectural Drafting Grid -->
+  <g stroke="rgba(60, 36, 21, 0.05)" stroke-width="0.75">
+    <line x1="40" y1="0" x2="40" y2="280"/>
+    <line x1="120" y1="0" x2="120" y2="280"/>
+    <line x1="200" y1="0" x2="200" y2="280"/>
+    <line x1="280" y1="0" x2="280" y2="280"/>
+    <line x1="360" y1="0" x2="360" y2="280"/>
+    <line x1="440" y1="0" x2="440" y2="280"/>
+    <line x1="0" y1="40" x2="420" y2="40"/>
+    <line x1="0" y1="120" x2="420" y2="120"/>
+    <line x1="0" y1="200" x2="420" y2="200"/>
+    <line x1="0" y1="280" x2="420" y2="280"/>
+  </g>
+  
+  <text x="210" y="45" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle" letter-spacing="1.5">ERROR 404 · ELEVATION NOT FOUND</text>
+  <line x1="130" y1="52" x2="290" y2="52" stroke-width="0.8"/>
+  <!-- Isometric Staircase Leading to Architectural Opening -->
+  <!-- Step 1 -->
+  <polygon points="120,230 170,205 210,225 160,250" fill="#DDD9CE" stroke-width="1.5"/>
+  <polygon points="160,250 210,225 210,240 160,265" fill="#3C2415" stroke-width="1.5"/>
+  <!-- Step 2 -->
+  <polygon points="150,195 200,170 240,190 190,215" fill="#DDD9CE" stroke-width="1.5"/>
+  <polygon points="190,215 240,190 240,205 190,230" fill="#3C2415" stroke-width="1.5"/>
+  <!-- Step 3 -->
+  <polygon points="180,160 230,135 270,155 220,180" fill="#DDD9CE" stroke-width="1.5"/>
+  <polygon points="220,180 270,155 270,170 220,195" fill="#3C2415" stroke-width="1.5"/>
+  <!-- Open Portal Archway into Sky -->
+  <path d="M250,190 L250,90 Q290,60 330,90 L330,190" fill="rgba(60, 36, 21, 0.05)" stroke-width="2"/>
+  <line x1="240" y1="190" x2="340" y2="190" stroke-width="2"/>
+  <text x="210" y="240" font-family="Playfair Display, serif" font-size="28" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle">404</text>
+  <text x="210" y="260" font-family="Inter, sans-serif" font-size="8.5" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">The requested path does not exist. Choose either door to continue.</text>
+
+</svg>

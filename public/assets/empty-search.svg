@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="100%" height="100%" fill="none" stroke="#3C2415" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="400" height="260" fill="#DDD9CE" rx="8" stroke="rgba(60, 36, 21, 0.22)" stroke-width="1"/>
+  <!-- Architectural Drafting Grid -->
+  <g stroke="rgba(60, 36, 21, 0.05)" stroke-width="0.75">
+    <line x1="40" y1="0" x2="40" y2="260"/>
+    <line x1="120" y1="0" x2="120" y2="260"/>
+    <line x1="200" y1="0" x2="200" y2="260"/>
+    <line x1="280" y1="0" x2="280" y2="260"/>
+    <line x1="360" y1="0" x2="360" y2="260"/>
+    <line x1="440" y1="0" x2="440" y2="260"/>
+    <line x1="0" y1="40" x2="400" y2="40"/>
+    <line x1="0" y1="120" x2="400" y2="120"/>
+    <line x1="0" y1="200" x2="400" y2="200"/>
+    <line x1="0" y1="280" x2="400" y2="280"/>
+  </g>
+  
+  <!-- Drafting Board & Search Loupe -->
+  <rect x="80" y="60" width="240" height="140" fill="rgba(60, 36, 21, 0.04)" stroke-width="1.5" rx="4"/>
+  <!-- Blueprint Grid Inside -->
+  <line x1="80" y1="100" x2="320" y2="100" stroke="rgba(60, 36, 21, 0.1)" stroke-width="1"/>
+  <line x1="80" y1="140" x2="320" y2="140" stroke="rgba(60, 36, 21, 0.1)" stroke-width="1"/>
+  <line x1="160" y1="60" x2="160" y2="200" stroke="rgba(60, 36, 21, 0.1)" stroke-width="1"/>
+  <line x1="240" y1="60" x2="240" y2="200" stroke="rgba(60, 36, 21, 0.1)" stroke-width="1"/>
+  <!-- Magnifying Loupe -->
+  <circle cx="190" cy="120" r="36" fill="#DDD9CE" stroke-width="2"/>
+  <circle cx="190" cy="120" r="30" fill="none" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="215" y1="145" x2="250" y2="180" stroke-width="4"/>
+  <!-- Question Mark / Cross -->
+  <line x1="180" y1="110" x2="200" y2="130" stroke-width="2"/>
+  <line x1="200" y1="110" x2="180" y2="130" stroke-width="2"/>
+  <text x="200" y="225" font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle">NO MATCHING SAMPLE PROFILES</text>
+  <text x="200" y="240" font-family="Inter, sans-serif" font-size="8.5" fill="rgba(60, 36, 21, 0.75)" stroke="none" text-anchor="middle">Try clearing discipline filters or searching a broader Delhi NCR locality</text>
+
+</svg>

@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Production build artifacts
+dist/
+.preview/
+preview/
+
+# Screenshots & review captures (strictly code-only)
+screenshots/
+docs/screenshots/
+REVIEW_SCREENSHOTS/
+FULL_PAGE_SCREENSHOTS/
+
+# References & User-provided media (heavy MP4s, external moodboards)
+references/
+.agents/
+
+# Binaries, archives & media
+*.zip
+*.tar.gz
+*.pdf
+*.mp4
+*.mov
+*.avi
+
+# Logs & temporary files
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

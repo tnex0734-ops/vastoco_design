@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="100%" height="100%" fill="none" stroke="#3C2415" stroke-linecap="round" stroke-linejoin="round">
+  <rect width="480" height="320" fill="#DDD9CE" rx="8" stroke="rgba(60, 36, 21, 0.22)" stroke-width="1"/>
+  <!-- Architectural Drafting Grid -->
+  <g stroke="rgba(60, 36, 21, 0.05)" stroke-width="0.75">
+    <line x1="40" y1="0" x2="40" y2="320"/>
+    <line x1="120" y1="0" x2="120" y2="320"/>
+    <line x1="200" y1="0" x2="200" y2="320"/>
+    <line x1="280" y1="0" x2="280" y2="320"/>
+    <line x1="360" y1="0" x2="360" y2="320"/>
+    <line x1="440" y1="0" x2="440" y2="320"/>
+    <line x1="0" y1="40" x2="480" y2="40"/>
+    <line x1="0" y1="120" x2="480" y2="120"/>
+    <line x1="0" y1="200" x2="480" y2="200"/>
+    <line x1="0" y1="280" x2="480" y2="280"/>
+  </g>
+  
+  <text x="240" y="45" font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle" letter-spacing="1.5">04 · UPFRONT CONSULTATION BOOKING</text>
+  <line x1="160" y1="52" x2="320" y2="52" stroke-width="0.8"/>
+  <!-- Video Meeting Monitor -->
+  <rect x="70" y="85" width="200" height="140" rx="6" fill="#DDD9CE" stroke-width="1.8"/>
+  <rect x="76" y="91" width="188" height="115" fill="rgba(60, 36, 21, 0.04)" stroke-width="1"/>
+  <!-- Video Screen UI -->
+  <circle cx="130" cy="140" r="18" fill="rgba(60, 36, 21, 0.1)" stroke-width="1.2"/>
+  <path d="M120,165 Q130,155 140,165" stroke-width="1.2"/>
+  <circle cx="210" cy="140" r="18" fill="rgba(60, 36, 21, 0.1)" stroke-width="1.2"/>
+  <path d="M200,165 Q210,155 220,165" stroke-width="1.2"/>
+  <!-- Monitor Base -->
+  <polygon points="150,225 190,225 195,245 145,245" fill="#3C2415"/>
+  <rect x="135" y="245" width="70" height="6" rx="2" fill="#3C2415"/>
+  <!-- Calendar & Duration Selector on Right -->
+  <rect x="290" y="85" width="130" height="165" rx="5" fill="#DDD9CE" stroke-width="1.5"/>
+  <rect x="290" y="85" width="130" height="28" fill="#3C2415" rx="5 5 0 0"/>
+  <text x="355" y="103" font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#DDD9CE" stroke="none" text-anchor="middle">UPFRONT SCHEDULE</text>
+  <!-- Duration Pills -->
+  <rect x="300" y="122" width="110" height="20" rx="3" fill="rgba(60, 36, 21, 0.06)" stroke-width="1"/>
+  <text x="355" y="135" font-family="Inter, sans-serif" font-size="8" fill="#3C2415" stroke="none" text-anchor="middle">15 min · ₹750</text>
+  
+  <rect x="300" y="148" width="110" height="24" rx="3" fill="#3C2415" stroke-width="1"/>
+  <text x="355" y="163" font-family="Inter, sans-serif" font-size="8.5" font-weight="700" fill="#DDD9CE" stroke="none" text-anchor="middle">30 min · ₹1,400 (Rec)</text>
+  
+  <rect x="300" y="178" width="110" height="20" rx="3" fill="rgba(60, 36, 21, 0.06)" stroke-width="1"/>
+  <text x="355" y="191" font-family="Inter, sans-serif" font-size="8" fill="#3C2415" stroke="none" text-anchor="middle">45 min · ₹1,950</text>
+  
+  <!-- Escrow Badge -->
+  <rect x="300" y="210" width="110" height="26" rx="3" fill="rgba(60, 36, 21, 0.08)" stroke-width="1"/>
+  <text x="355" y="222" font-family="Inter, sans-serif" font-size="7" font-weight="700" fill="#3C2415" stroke="none" text-anchor="middle">🔒 ESCROW HELD</text>
+  <text x="355" y="231" font-family="Inter, sans-serif" font-size="6.5" fill="rgba(60, 36, 21, 0.7)" stroke="none" text-anchor="middle">100% Upfront Clarity</text>
+
+</svg>
