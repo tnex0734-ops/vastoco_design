@@ -5,9 +5,9 @@
   "description": "Responsive, frontend-only Vastoco Design Hackathon 2026 prototype.",
   "type": "module",
   "scripts": {
-    "dev": "node server.mjs",
+    "dev": "node scripts/server.mjs",
     "build": "node scripts/build.mjs",
-    "preview": "node server.mjs --dist",
+    "preview": "node scripts/server.mjs --dist",
     "test": "node --test",
     "qa:responsive": "node scripts/audit_responsiveness.mjs",
     "qa:screenshots": "node scripts/capture-responsive-qa.mjs",

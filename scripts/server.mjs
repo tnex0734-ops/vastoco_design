@@ -3,7 +3,7 @@ import { createReadStream, existsSync, statSync } from 'node:fs';
 import { extname, join, normalize, resolve, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-const root = fileURLToPath(new URL('.', import.meta.url));
+const root = fileURLToPath(new URL('..', import.meta.url));
 const useDist = process.argv.includes('--dist');
 const publicRoot = resolve(root, useDist ? 'dist' : '.');
 const port = Number(process.env.PORT || 4173);
@@ -24,7 +24,7 @@ const mime = {
 };
 
 const server = createServer((req, res) => {
-  if (!req.url || req.method !== 'GET' && req.method !== 'HEAD') {
+  if (!req.url || (req.method !== 'GET' && req.method !== 'HEAD')) {
     res.writeHead(405, { Allow: 'GET, HEAD' });
     return res.end('Method not allowed');
   }
@@ -67,13 +67,7 @@ const server = createServer((req, res) => {
   createReadStream(filePath).pipe(res);
 });
 
-export default function handler(req, res) {
-  server.emit('request', req, res);
-}
-
-if (!process.env.VERCEL && !process.env.NOW_REGION) {
-  server.listen(port, '0.0.0.0', () => {
-    console.log(`Vastoco prototype ready at http://localhost:${port}`);
-    console.log(`Serving ${useDist ? 'dist/' : 'project root'} · frontend only · no backend`);
-  });
-}
+server.listen(port, '0.0.0.0', () => {
+  console.log(`Vastoco prototype ready at http://localhost:${port}`);
+  console.log(`Serving ${useDist ? 'dist/' : 'project root'} · frontend only · no backend`);
+});
