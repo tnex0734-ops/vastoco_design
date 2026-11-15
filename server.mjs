@@ -67,7 +67,13 @@ const server = createServer((req, res) => {
   createReadStream(filePath).pipe(res);
 });
 
-server.listen(port, '0.0.0.0', () => {
-  console.log(`Vastoco prototype ready at http://localhost:${port}`);
-  console.log(`Serving ${useDist ? 'dist/' : 'project root'} · frontend only · no backend`);
-});
+export default function handler(req, res) {
+  server.emit('request', req, res);
+}
+
+if (!process.env.VERCEL && !process.env.NOW_REGION) {
+  server.listen(port, '0.0.0.0', () => {
+    console.log(`Vastoco prototype ready at http://localhost:${port}`);
+    console.log(`Serving ${useDist ? 'dist/' : 'project root'} · frontend only · no backend`);
+  });
+}
